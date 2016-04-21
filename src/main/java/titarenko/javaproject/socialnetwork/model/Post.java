@@ -12,6 +12,9 @@ public class Post extends BaseEntity {
 
     private final String description;
 
+    private User user;
+
+
     public Post(LocalDateTime dateTime, String description) {
         this(null, dateTime, description);
     }
@@ -21,6 +24,7 @@ public class Post extends BaseEntity {
         this.dateTime = dateTime;
         this.description = description;
     }
+
 
     public void setId(int id) {
         this.id = id;

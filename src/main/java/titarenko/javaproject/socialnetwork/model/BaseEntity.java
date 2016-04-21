@@ -10,7 +10,6 @@ public class BaseEntity {
 
     }
 
-
     protected BaseEntity(Integer id) {
         this.id = id;
     }

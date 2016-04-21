@@ -15,4 +15,14 @@
         <url-pattern>/users</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>postServlet</servlet-name>
+        <servlet-class>titarenko.javaproject.socialnetwork.web.PostServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>postServlet</servlet-name>
+        <url-pattern>/posts</url-pattern>
+    </servlet-mapping>
+
 </web-app>

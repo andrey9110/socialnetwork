@@ -1,3 +1,82 @@
 2016-04-20 20:08:46,172 DEBUG UserServlet [UserServlet.java:22] redirect to userList
 2016-04-20 20:08:55,677 DEBUG UserServlet [UserServlet.java:22] redirect to userList
 2016-04-20 20:09:01,658 DEBUG UserServlet [UserServlet.java:22] redirect to userList
+2016-04-21 12:16:27,629 DEBUG UserServlet [UserServlet.java:22] redirect to userList
+2016-04-21 12:16:39,958 INFO  PostServlet [PostServlet.java:20] getAll
+2016-04-21 12:18:26,691 DEBUG UserServlet [UserServlet.java:22] redirect to userList
+2016-04-21 12:18:58,941 DEBUG UserServlet [UserServlet.java:22] redirect to userList
+2016-04-21 12:19:01,363 INFO  PostServlet [PostServlet.java:20] getAll
+2016-04-21 12:54:37,074 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:54:43,082 INFO  PostServlet [PostServlet.java:55] Delete 2
+2016-04-21 12:54:43,088 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:54:45,214 INFO  PostServlet [PostServlet.java:55] Delete 2
+2016-04-21 12:54:45,216 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:54:45,710 INFO  PostServlet [PostServlet.java:55] Delete 2
+2016-04-21 12:54:45,713 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:54:46,069 INFO  PostServlet [PostServlet.java:55] Delete 2
+2016-04-21 12:54:46,072 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:54:46,393 INFO  PostServlet [PostServlet.java:55] Delete 2
+2016-04-21 12:54:46,395 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:55:18,065 INFO  PostServlet [PostServlet.java:55] Delete 3
+2016-04-21 12:55:18,067 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:55:50,767 INFO  PostServlet [PostServlet.java:55] Delete 6
+2016-04-21 12:55:50,769 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:56:02,650 INFO  PostServlet [PostServlet.java:55] Delete 6
+2016-04-21 12:56:02,652 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:56:03,275 INFO  PostServlet [PostServlet.java:55] Delete 6
+2016-04-21 12:56:03,277 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:56:04,466 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 12:56:04,475 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:56:05,162 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 12:56:05,164 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:56:05,686 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 12:56:05,688 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:56:06,209 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 12:56:06,211 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 12:56:06,696 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 12:56:06,698 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:14:29,848 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:14:32,442 INFO  PostServlet [PostServlet.java:55] Delete 3
+2016-04-21 13:14:32,447 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:17:16,082 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:17:18,415 INFO  PostServlet [PostServlet.java:55] Delete 1
+2016-04-21 13:17:18,419 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:18:20,520 INFO  PostServlet [PostServlet.java:55] Delete 1
+2016-04-21 13:18:20,523 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:18:34,190 INFO  PostServlet [PostServlet.java:55] Delete 4
+2016-04-21 13:18:34,192 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:18:46,445 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:18:48,933 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:18:52,929 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:19:58,412 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 13:19:58,414 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:20:09,202 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:20:16,127 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:20:39,103 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:22:23,376 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:22:25,946 INFO  PostServlet [PostServlet.java:55] Delete 3
+2016-04-21 13:22:25,951 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:22:28,888 INFO  PostServlet [PostServlet.java:55] Delete 4
+2016-04-21 13:22:28,890 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:24:49,816 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:24:52,025 INFO  PostServlet [PostServlet.java:55] Delete 3
+2016-04-21 13:24:52,032 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:24:53,538 INFO  PostServlet [PostServlet.java:55] Delete 1
+2016-04-21 13:24:53,540 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:24:54,695 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 13:24:54,697 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:24:56,077 INFO  PostServlet [PostServlet.java:55] Delete 4
+2016-04-21 13:24:56,085 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:26:19,369 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:26:33,464 INFO  PostServlet [PostServlet.java:40] Create UserMeal{id=null, dateTime=2016-04-21T13:26:22.067, description='1111111'}
+2016-04-21 13:26:33,467 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 13:26:38,813 INFO  PostServlet [PostServlet.java:40] Update UserMeal{id=7, dateTime=2016-04-21T13:26:22.067, description='dvsc'}
+2016-04-21 13:26:38,816 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 14:15:03,222 INFO  PostServlet [PostServlet.java:55] Delete 4
+2016-04-21 14:15:03,238 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 14:15:04,032 INFO  PostServlet [PostServlet.java:55] Delete 5
+2016-04-21 14:15:04,036 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 14:15:05,167 INFO  PostServlet [PostServlet.java:55] Delete 7
+2016-04-21 14:15:05,170 INFO  PostServlet [PostServlet.java:49] getAll
+2016-04-21 14:15:17,013 INFO  PostServlet [PostServlet.java:40] Update UserMeal{id=6, dateTime=2015-05-31T20:00, description='Авось не унывает.!'}
+2016-04-21 14:15:17,016 INFO  PostServlet [PostServlet.java:49] getAll
